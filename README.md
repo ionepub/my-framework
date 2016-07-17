@@ -25,8 +25,7 @@
 │       └───sysplugins
 
 └───template
-
-    └───Default
+	└───Default
     
 
 ## 使用方法
