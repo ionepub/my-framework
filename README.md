@@ -5,17 +5,29 @@
 ## 目录结构
 
 ├───app
+
 │   ├───action
+
 │   └───module
+
 ├───Core
+
 ├───data
+
 │   └───cache
+
 ├───Extends
+
 │   └───Smarty
+
 │       ├───plugins
+
 │       └───sysplugins
+
 └───template
+
     └───Default
+    
 
 ## 使用方法
 
